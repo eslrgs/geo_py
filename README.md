@@ -1,6 +1,6 @@
 # Exploring geological data with Python
 
-### Run through Binder
+## Run through Binder
 
 Click link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eslrgs/skynthetic/master)
 
