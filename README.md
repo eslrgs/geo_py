@@ -2,7 +2,7 @@
 
 ## Run through Binder
 
-Click link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eslrgs/skynthetic/master)
+Click link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eslrgs/geo_py.git/master)
 
 Open 'field_py.ipynb' to run notebook
 
