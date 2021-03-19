@@ -1,4 +1,4 @@
-# Exploring geological data with Python
+# Intro to Python for Geologists workshop
 
 ## Run through Binder
 
