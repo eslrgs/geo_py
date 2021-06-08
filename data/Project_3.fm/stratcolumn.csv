@@ -1,0 +1,13 @@
+Midland Valley,4DMove2.0 v1.0
+Stratigraphy,Stratigraphy,Stratigraphy,Stratigraphy,Stratigraphy,Stratigraphy
+Text,Color,Text,Real,Real,Integer
+Horizon,Colour,Rock Type,Age,Thickness,horizonId
+#0000FF,#0000CD,#00009B,#000069,,,
+n/a,n/a,n/a,n/a,n/a,n/a
+dimensionless,dimensionless,dimensionless,dimensionless,dimensionless,dimensionless
+Top,#ff669933,Default,0.,0.,16
+Mid,#ffff9933,Default,0.,0.,15
+Bottom,#ffffcc00,Default,0.,0.,14
+Channelly,#fffff500,Default,0.,0.,19
+P FLOWS,#ff0040ff,Default,0.,0.,17
+Scours,#ffff0600,Default,0.,0.,18
