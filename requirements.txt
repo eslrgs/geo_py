@@ -9,4 +9,3 @@ geopandas==0.6.1
 Shapely==1.7.1
 Fiona==1.8.4
 pyproj==1.9.6
-Rtree @ file:///opt/concourse/worker/volumes/live/5c63c097-8e47-46e3-5b05-c6294368c0c9/volume/rtree_1618420831358/work
